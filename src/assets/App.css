@@ -1,0 +1,12 @@
+body {
+  background-color: var(--bs-dark);
+  overflow-x: hidden;
+}
+
+.card {
+  box-shadow: 0 0.5rem 2.5rem rgba(0, 0, 0, 0.7);
+}
+
+.taskCompleted {
+  text-decoration: line-through;
+}
